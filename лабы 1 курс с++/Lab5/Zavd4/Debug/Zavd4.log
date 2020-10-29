@@ -1,0 +1,4 @@
+﻿  Zavd4.cpp
+C:\Users\Михаил Новиков\Desktop\Lab5\Zavd4\Zavd4.cpp(2,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Михаил Новиков\Desktop\Lab5\Zavd4\Zavd4.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Zavd4.vcxproj -> C:\Users\Михаил Новиков\Desktop\Lab5\Debug\Zavd4.exe

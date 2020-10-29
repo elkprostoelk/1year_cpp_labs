@@ -1,0 +1,4 @@
+﻿  Zavd8.cpp
+C:\Users\Михаил Новиков\Desktop\Lab6\Zavd8\Zavd8.cpp(157,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Михаил Новиков\Desktop\Lab6\Zavd8\Zavd8.cpp(49): warning C4715: Date::NameMonth: значение возвращается не при всех путях выполнения
+  Zavd8.vcxproj -> C:\Users\Михаил Новиков\Desktop\Lab6\Debug\Zavd8.exe

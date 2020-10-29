@@ -1,0 +1,3 @@
+﻿  Zavd5.cpp
+C:\Users\Михаил Новиков\Desktop\Lab5\Zavd5\Zavd5.cpp(10,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Zavd5.vcxproj -> C:\Users\Михаил Новиков\Desktop\Lab5\Debug\Zavd5.exe

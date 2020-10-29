@@ -1,0 +1,3 @@
+﻿  Zavd5.cpp
+C:\Users\Михаил Новиков\Desktop\Lab6\Zavd5\Zavd5.cpp(21,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Zavd5.vcxproj -> C:\Users\Михаил Новиков\Desktop\Lab6\Debug\Zavd5.exe

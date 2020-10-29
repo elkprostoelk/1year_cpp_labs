@@ -1,0 +1,8 @@
+﻿  Zavd1.cpp
+D:\Файлы\Рабочий стол\Lab10\Zavd1\Zavd1.cpp(75,19): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\Файлы\Рабочий стол\Lab10\Zavd1\Zavd1.cpp(79,19): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\Файлы\Рабочий стол\Lab10\Zavd1\Zavd1.cpp(83,27): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\Файлы\Рабочий стол\Lab10\Zavd1\Zavd1.cpp(87,19): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\Файлы\Рабочий стол\Lab10\Zavd1\Zavd1.cpp(91,51): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\Файлы\Рабочий стол\Lab10\Zavd1\Zavd1.cpp(95,35): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  Zavd1.vcxproj -> D:\Файлы\Рабочий стол\Lab10\Debug\Zavd1.exe
